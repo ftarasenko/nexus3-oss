@@ -164,7 +164,7 @@ nexus_config_bower: false
 nexus_config_npm: false
 nexus_config_nuget: false
 nexus_config_gitlfs: false
-nexus_config_yum: false
+nexus_config_yum: true
 
 nexus_content_selectors: []
 # example selector item :
